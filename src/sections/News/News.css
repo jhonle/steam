@@ -3,7 +3,7 @@
   display: block;
   width: 70%;
   margin: 10vh auto 0px;
-  height: 90vh;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   padding: 20px;

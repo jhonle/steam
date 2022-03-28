@@ -1,5 +1,5 @@
 .container {
   display: flex;
   background-color: #1b2838;
-  height: 100vh;
+  min-height: 100vh;
 }
