@@ -9,6 +9,27 @@
   padding: 20px;
 }
 
+.nav {
+  display: flex;
+  min-height: 50px;
+  gap: 20px;
+  padding: 30px 20px;
+  justify-content: end;
+}
+
+.avatar {
+  border-radius: 34px;
+  width: 70px;
+  background-color: #808080;
+  color: #4e4e4e;
+  border: none;
+}
+
+.steam-input {
+  border-radius: 20px;
+  height: 40px;
+  margin: auto 0px;
+}
 @media only screen and (max-width: 600px) {
   .main-section {
     width: 100%;
